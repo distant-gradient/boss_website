@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.groupapp.messenger",
+    "sha256_cert_fingerprints":
+    ["3A:7B:E0:BB:D0:4D:03:5C:39:CB:C9:4F:4E:E2:D9:C0:74:09:5D:B6:24:75:AA:56:65:3D:F1:EC:3D:CF:3D:09"]
+  }
+}]
